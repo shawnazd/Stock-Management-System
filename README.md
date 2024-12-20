@@ -1,4 +1,4 @@
-Sure! Here's the updated version of the README with the **Usage** and **Running the Program** sections removed:
+You're welcome! Here's the updated README with a **Thank You** section added:
 
 ---
 
@@ -61,9 +61,9 @@ We welcome contributions! To contribute:
 
 ---
 
-## 📝 **License**
+## 🙏 **Thank You**
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Thank you for checking out the **Stock Management System**! We appreciate your interest in this project. If you have any questions, suggestions, or feedback, feel free to reach out. Happy coding!
 
 ---
 
@@ -71,8 +71,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-### **Updates:**
-- Removed the **Usage** section as you requested.
-- Removed the **Running the Program** section as well.
-
-Let me know if you'd like any further changes!
+The **Thank You** section has been added at the end. Let me know if you need any further adjustments!
