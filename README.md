@@ -1,15 +1,12 @@
-Here's the corrected version of your README with the changes you requested, where the `## **` markdown headings are removed and replaced with HTML tags for proper title formatting:
+<h1 align="center">🟢 Stock Management System</h1>
 
-```markdown
-<p align="center">
-  <h1>🟢 Stock Management System</h1>
-</p>
 
-<h2>💬 Description</h2>
+## 💬 Description
 
 The **Stock Management System** is designed to help businesses efficiently manage their inventory. This system allows users to track inventory levels, manage stock records, search for products by category/subcategory, generate alerts for low-stock items, and provides a dashboard for stock trends and analysis.
 
-<h3>🚀 Key Features</h3>
+## 🚀 Key Features
+
 - 🗂 **Track Inventory**: Keep track of inventory for various products.
 - 🔍 **Product Search**: Search for products by category and subcategory.
 - ✏️ **Manage Stock Records**: Add, update, and delete stock items as needed.
@@ -18,7 +15,7 @@ The **Stock Management System** is designed to help businesses efficiently manag
 
 ---
 
-<h3>🎯 Example Commands</h3>
+## 🎯 Example Commands
 
 - **Add a New Stock Item**:
    ```text
@@ -50,7 +47,7 @@ The **Stock Management System** is designed to help businesses efficiently manag
 
 ---
 
-<h2>🙌 Contributing</h2>
+## 🙌 Contributing
 
 We welcome contributions! To contribute:
 
@@ -61,14 +58,8 @@ We welcome contributions! To contribute:
 
 ---
 
-<h2>📝 License</h2>
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-<h2>🙏 Thank You</h2>
+## 🙏 Thank You
 
 Thank you for checking out the **Stock Management System**! We appreciate your interest in this project. If you have any questions, suggestions, or feedback, feel free to reach out. Happy coding!
+```
 
----
