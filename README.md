@@ -1,8 +1,4 @@
-To remove the `## **` markdown syntax from all titles and increase the title size, we can use HTML tags to format the titles and remove the markdown syntax for headings (`#`, `##`, etc.). To make the titles bigger, you can use the `<h1>` tag for the main title, and adjust other headings accordingly.
-
-Here's the updated README without `## **` and with larger title formatting:
-
----
+Here's the corrected version of your README with the changes you requested, where the `## **` markdown headings are removed and replaced with HTML tags for proper title formatting:
 
 ```markdown
 <p align="center">
@@ -76,13 +72,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Thank you for checking out the **Stock Management System**! We appreciate your interest in this project. If you have any questions, suggestions, or feedback, feel free to reach out. Happy coding!
 
 ---
-```
-
----
-
-### Updates:
-- Removed `## **` markdown syntax and replaced it with `<h1>`, `<h2>`, and `<h3>` HTML tags for larger and properly styled titles.
-- The main title `Stock Management System` is now wrapped in an `<h1>` tag for increased size.
-- Adjusted other section titles with `<h2>` and `<h3>` tags for appropriate size.
-
-Let me know if you'd like any further changes!
